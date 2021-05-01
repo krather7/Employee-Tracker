@@ -29,4 +29,4 @@ Find me on GitHub: [krather7](https://github.com/krather7)<br />
 <br />
 Email: krather7@gmail.com<br /><br />
 
-![README Demo](READMEDemo.gif)
+![README Demo](Demo.gif)
